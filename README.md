@@ -1,6 +1,4 @@
-setLoading(false);
-});
-}, []);
+
 Ejercicio practico:
 Instrucciones para el Trabajo Práctico
 Objetivo
