@@ -1,38 +1,30 @@
-# React Weather App - ReactJS Projects
-
-![](weather.gif)
-
-### Demo - Deployed over Github Pages 
-https://ayushkul.github.io/react-weather-app
-
-### Full development Tutorial 
-[Youtube Tutorial - The Indian Dev](https://www.youtube.com/watch?v=_UXycMmVYj0)
-
-### APIs Used
-[Open Weather APIs](https://openweathermap.org/)
-
-https://openweathermap.org/current
-
-### API Info
-* Method: `GET`
-* URL: `https://api.openweathermap.org/data/2.5/weather?q={CITY_NAME}&appid={API_KEY}`
-
-### Icons & Font -
-* Icons: [ayushkul/react-weather-app](https://github.com/ayushkul/react-weather-app/tree/master/public/icons)
-* Font Link: `<link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600&display=swap" rel="stylesheet">`
-
-### Libraries used
-* `styled-components`
-* `axios`
-* `react-scripts`
-
-### Whom do I talk to? ###
-
-* AyushK : [The Indian Dev](https://www.instagram.com/theindiandev)
-
-### How can I appreciate this repo? ###
-
-* By giving this repo a 🌟
-* By Subscribing : [The Indian Dev](https://www.youtube.com/channel/UCbaR6YYn5VGXrR5_f-4tNsA) at Youtube
-* By Following : [The Indian Dev](https://www.instagram.com/theindiandev) at Instagram
+setLoading(false);
+});
+}, []);
+Ejercicio practico:
+Instrucciones para el Trabajo Práctico
+Objetivo
+Construir una aplicación con React que consuma datos de un
+servicio web utilizando fetch para realizar las solicitudes
+HTTP.
+Descripción del Trabajo
+En este trabajo práctico, deberás desarrollar una aplicación
+en React que realice las siguientes tareas:
+Consultar Datos de un Servicio Web: Utilizar fetch para obtener
+datos desde un servicio web.
+Mostrar Datos en la Interfaz: Renderizar los datos obtenidos
+en un componente de React.
+Manejo de Estados y Efectos: Utilizar los hooks useState y
+useEffect para manejar el estado de la aplicación y los efectos
+secundarios.
+Pasos a Seguir
+Configurar el Proyecto:
+Crea una nueva aplicación de React utilizando create-react-
+app.
+Configura el entorno de desarrollo y verifica que la aplicación
+se ejecute correctamente.
+Consumir el Servicio Web:
+Utiliza el método fetch para realizar una solicitud GET a un
+servicio web.
+Maneja las respuestas y los errores de la solicitud
 
